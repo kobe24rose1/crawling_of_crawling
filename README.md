@@ -1,5 +1,3 @@
 # Crawling of crawling
 
-1. Extract various information from e-commerce sites and store it in an Excel file.
-2. Try crawling again from crawled data.
-3. Create a program that can be crawled and stored in Excel files at once.
+1. Extract the titles and prices of the best products from the e-commerce site. (Crawling back from crawled data)
